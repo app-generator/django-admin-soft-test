@@ -39,9 +39,7 @@ Modern template for **Django Admin Interface** coded on top of **[Soft UI Dashbo
 > **Install the package** via `PIP` 
 
 ```bash
-$ pip install django-admin-soft-dashboard
-// OR
-$ pip install git+https://github.com/app-generator/django-admin-soft-dashboard.git
+$ pip install git+https://github.com/app-generator/django-admin-soft-test.git
 ```
 
 <br />
